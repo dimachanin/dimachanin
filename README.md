@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile, stranger 👋
 
-My name is Dmitrii and i'm work into [EPAM Systems] on position Software Engineer.
+My name is Dmitrii and i'm work into [TechnoDiasoft] on position Senior Front-end engineer.
 - [X] Junior Software Engineer
-- [ ] Middle Software Engineer
+- [X] Middle Software Engineer
 - [ ] Senior Software Engineer
 
 #### English current levels:
@@ -11,7 +11,7 @@ My name is Dmitrii and i'm work into [EPAM Systems] on position Software Enginee
 |:---:|:---:|
 |B1|A2+|
 
-[EPAM Systems]: https://www.epam.com/
+[TechnoDiasoft]: https://technodiasoft.ru/
 
 #### CodeWars: <br/>
 ![](https://www.codewars.com/users/dimachanin/badges/large)
@@ -19,15 +19,18 @@ My name is Dmitrii and i'm work into [EPAM Systems] on position Software Enginee
 #### Front-end technologies:
 |Technology|Skill|
 |---|---|
-|JavaScript|Intermediate|
-|TypeScript|Novice|
-|React|Intermediate|
+|JavaScript|Advanced|
+|TypeScript|Intermediate|
+|HTML5|Intermediate|
+|React|Advanced|
+|React-Router|Intermediate|
 |Redux|Novice|
+|Less|Intermediate|
 |SASS|Intermediate|
 |styled-components|Intermediate|
 |@emotion|Intermediate|
 |Webpack|Intermediate|
-|Jest|Novice|
+|Jest|Intermediate|
 |StoryBook|Novice|
 |NextJS|Novice|
 
