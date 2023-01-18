@@ -1,9 +1,6 @@
 ### Welcome to my GitHub profile, stranger 👋
 
 My name is Dmitrii and i'm work into [TechnoDiasoft] on position Senior Front-end engineer.
-- [X] Junior Software Engineer
-- [X] Middle Software Engineer
-- [ ] Senior Software Engineer
 
 #### English current levels:
 
